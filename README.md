@@ -1,8 +1,5 @@
-<<<<<<< HEAD
+
 # process_unit_test
-This is the repository to do unit test for preprocessing in R
-=======
-# LCA_for_BN
 
 The propose of this project is to test testthat package.
 
@@ -34,4 +31,4 @@ Current code files include:
 
 Output files (not in repository but created by analysis files):
 
->>>>>>> initial commit
+
